@@ -1,0 +1,5 @@
+﻿\\xxx\DavWWWRoot\Reports\
+|*.rdl|
+C:\Temp\Text Search Results\
+</SharedDataSetReference>|.rsd</SharedDataSetReference>
+.rsd.rsd|.rsd
