@@ -1,0 +1,25 @@
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.frmMainForm.resources
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.Properties.Resources.resources
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\bin\Debug\TextFileSearchAndReplace.exe.config
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\bin\Debug\TextFileSearchAndReplace.exe
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\bin\Debug\TextFileSearchAndReplace.pdb
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.exe
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.pdb
+C:\vss\NoetixHelperApps\TextFileSearchAndReplace\TextFileSearchAndReplace\bin\Debug\SavedSettings\SSRS Report Migration Non-Integrated to Integrated Mode.txt
+C:\TEMP\TextFileSearchAndReplace\TextFileSearchAndReplace\bin\Debug\TextFileSearchAndReplace.exe.config
+C:\TEMP\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.exe
+C:\TEMP\TextFileSearchAndReplace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.pdb
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\bin\Debug\TextFileSearchAndReplace.exe.config
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.exe
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.pdb
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\bin\Debug\SavedSettings\SSRS Report Migration Non-Integrated to Integrated Mode.txt
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\bin\Debug\TextFileSearchAndReplace.exe
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\bin\Debug\TextFileSearchAndReplace.pdb
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.frmMainForm.resources
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\obj\x86\Debug\TextFileSearchAndReplace.Properties.Resources.resources
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MyApps\textfile-search-and-replace\TextFileSearchAndReplace\obj\x86\Debug\GenerateResource.write.1.tlog
